@@ -13,7 +13,6 @@ class Forca:
         self.palavra = self.escolhe_palavra(self.indice_aleatorio)
 
     def play(self):
-        print('Jogando forca')
         print("Bem-vindo ao jogo da forca")
         
         #desenha a trilha da palavra
